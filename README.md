@@ -2,7 +2,7 @@
 
 ### This is a Website for my custom Software Development and Services Consulting Business 
 
--The site is currently live [here](https://rios-lab.herokuapp.com/)
+-The site is currently live [here](https://rios-lab-consulting.herokuapp.com/)
 
 -In order to run this code on your local server:
   1. Download the project and change your directory so that you're inside the main project folder
